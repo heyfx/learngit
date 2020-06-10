@@ -23,6 +23,18 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+        <!--注册中心依赖-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
+        </dependency>
+
+        <!--配置中心依赖-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+        </dependency>
+
         <!--测试的起步依赖  集成junit或者springtest这些测试-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
