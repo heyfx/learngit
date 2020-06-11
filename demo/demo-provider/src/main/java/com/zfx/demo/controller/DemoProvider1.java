@@ -9,13 +9,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoProvider1 {
 
-
     @Autowired
     private DemoProvider1Service demoProvider1Service;
 
     @GetMapping("/getDemoProvider1Test")
-    public Object getDemoProvider1Test(){
-        return demoProvider1Service.getDemo();
+    public String getDemoProvider1Test(Integer id){
+
+        return "";
+
     }
 
 }
