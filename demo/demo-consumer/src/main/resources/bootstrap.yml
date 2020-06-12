@@ -1,6 +1,7 @@
+#nacos配置
 spring:
   application:
-    name: demo-provider
+    name: demo-consumer
   cloud:
     nacos:
       discovery:
@@ -10,4 +11,3 @@ spring:
         server-addr: 172.16.30.225:8848
         group: TEST_GROUP
         file-extension: yaml
-

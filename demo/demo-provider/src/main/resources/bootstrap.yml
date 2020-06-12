@@ -1,12 +1,13 @@
 spring:
   application:
-    name: service1
+    name: demo-provider
   cloud:
     nacos:
       discovery:
-        server-addr: 192.168.158.1:8848
+        server-addr: 172.16.30.225:8848
+        group: TEST_GROUP
       config:
-        server-addr: 192.168.158.1:8848
+        server-addr: 172.16.30.225:8848
         group: TEST_GROUP
         file-extension: yaml
 

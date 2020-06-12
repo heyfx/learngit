@@ -4,7 +4,7 @@ import com.zfx.demo.entity.DemoEntity;
 import org.springframework.stereotype.Service;
 
 @Service
-public class DemoProvider1Service implements  DemoService{
+public class DemoConsumer1Service implements  DemoService{
 
     @Override
     public Object getDemo() {
