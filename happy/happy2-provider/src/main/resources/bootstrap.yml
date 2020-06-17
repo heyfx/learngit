@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: happy-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.16.34.53:8848
+        group: HAPPY_GROUP
+      config:
+        server-addr: 172.16.34.53:8848
+        group: HAPPY_GROUP
+        file-extension: yaml
+
