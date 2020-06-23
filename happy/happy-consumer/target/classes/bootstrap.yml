@@ -1,12 +1,12 @@
-spring:
-  application:
-    name: happy-consumer
-  cloud:
-    nacos:
-      discovery:
-        server-addr: 172.16.34.53:8848
-        group: HAPPY_GROUP
-      config:
-        server-addr: 172.16.34.53:8848
-        group: HAPPY_GROUP
-        file-extension: yaml
+#spring:
+#  application:
+#    name: happy-consumer
+#  cloud:
+#    nacos:
+#      discovery:
+#        server-addr: 172.16.34.53:8848
+#        group: HAPPY_GROUP
+#      config:
+#        server-addr: 172.16.34.53:8848
+#        group: HAPPY_GROUP
+#        file-extension: yaml

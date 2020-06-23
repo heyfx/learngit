@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/happy-provider/pom.xml" />
         <option value="$PROJECT_DIR$/happy-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/happy2-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/happy-swagger2/pom.xml" />
       </list>
     </option>
   </component>

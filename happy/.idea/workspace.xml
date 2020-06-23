@@ -7,6 +7,7 @@
     <ignored path="$PROJECT_DIR$/happy-provider/target/" />
     <ignored path="$PROJECT_DIR$/happy-consumer/target/" />
     <ignored path="$PROJECT_DIR$/happy2-provider/target/" />
+    <ignored path="$PROJECT_DIR$/happy-swagger2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,146 +18,48 @@
     <session id="-2033063939">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="742" />
-          <entry key="xml" value="12" />
-          <entry key="yml" value="73" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="914" />
+          <entry key="xml" value="30" />
+          <entry key="yml" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="742" />
-          <entry key="XML" value="12" />
-          <entry key="YAML" value="73" />
+          <entry key="JAVA" value="914" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="30" />
+          <entry key="YAML" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="38" />
-          <entry key="xml" value="9" />
-          <entry key="yml" value="19" />
+          <entry key="java" value="52" />
+          <entry key="xml" value="15" />
+          <entry key="yml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="38" />
-          <entry key="XML" value="9" />
-          <entry key="YAML" value="19" />
+          <entry key="JAVA" value="52" />
+          <entry key="XML" value="15" />
+          <entry key="YAML" value="24" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/HappyProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/Happy2ProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/HappyConsumerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/entity/UserEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -173,10 +76,7 @@
         <option value="$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/service/UserService.java" />
         <option value="$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/HappyProviderApplication.java" />
         <option value="$PROJECT_DIR$/happy-provider/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/happy-consumer/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/happy-consumer/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/HappyConsumerApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zfx/happy/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zfx/happy/Test.java" />
         <option value="$PROJECT_DIR$/happy-provider/src/main/resources/application.yml" />
@@ -185,8 +85,17 @@
         <option value="$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/Happy2ProviderApplication.java" />
         <option value="$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/controller/UserController.java" />
         <option value="$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/service/UserService.java" />
         <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/service/UserService.java" />
+        <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/HappyConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/happy-consumer/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/HappySwagger2Application.java" />
+        <option value="$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/happy-swagger2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/controller/Swagger2Controller.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -221,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,56 +138,10 @@
               <item name="happy" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="happy-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="happy" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -288,7 +152,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592302560040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592899250164" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -299,12 +163,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zfx.happy.entity" />
-      <recent name="com.zfx.happy.service" />
+      <recent name="com.zfx.happy.config" />
       <recent name="com.zfx.happy.controller" />
       <recent name="com.zfx.happy" />
+      <recent name="com.zfx.happy.entity" />
+      <recent name="com.zfx.happy.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tisson\happy\happy-swagger2\src\main\resources" />
       <recent name="C:\Users\tisson\happy\happy2-provider\src\main\resources" />
       <recent name="C:\Users\tisson\happy\happy-consumer\src\main\resources" />
       <recent name="C:\Users\tisson\happy\happy-provider\src\main\resources" />
@@ -322,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HappyConsumerApplication">
+  <component name="RunManager" selected="Spring Boot.HappySwagger2Application">
     <configuration name="Happy2ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="happy2-provider" />
       <extension name="coverage">
@@ -362,13 +228,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HappySwagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="happy-swagger2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfx.happy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zfx.happy.HappySwagger2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.HappyConsumerApplication" />
       <item itemvalue="Spring Boot.HappyProviderApplication" />
       <item itemvalue="Spring Boot.Happy2ProviderApplication" />
+      <item itemvalue="Spring Boot.HappySwagger2Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.HappySwagger2Application" />
         <item itemvalue="Spring Boot.Happy2ProviderApplication" />
         <item itemvalue="Spring Boot.HappyProviderApplication" />
       </list>
@@ -386,16 +267,18 @@
       <updated>1592206445305</updated>
       <workItem from="1592206449915" duration="6083000" />
       <workItem from="1592274523539" duration="5330000" />
+      <workItem from="1592892590300" duration="3513000" />
+      <workItem from="1592899501527" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11413000" />
+    <option name="totallyTimeSpent" value="15190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,7 +288,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5096774" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27741936" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,20 +319,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/happy-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/entity/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,16 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -488,13 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -540,6 +396,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/Happy2ProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -550,10 +420,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/HappyProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="324">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -561,36 +431,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy-provider/src/main/java/com/zfx/happy/HappyProviderApplication.java">
+    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy2-provider/src/main/java/com/zfx/happy/Happy2ProviderApplication.java">
+    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/HappyConsumerApplication.java">
+    <entry file="file://$PROJECT_DIR$/happy-consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -601,23 +462,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="108">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/HappyConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/config/SwaggerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/happy-swagger2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy-swagger2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/HappySwagger2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/controller/Swagger2Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/happy-consumer/src/main/java/com/zfx/happy/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/happy-swagger2/src/main/java/com/zfx/happy/config/Swagger2Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -673,7 +574,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>happy2-provider</last-edited>
+          <last-edited>happy-swagger2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

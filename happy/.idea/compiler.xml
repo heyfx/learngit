@@ -9,6 +9,7 @@
         <module name="happy" />
         <module name="happy-consumer" />
         <module name="happy-provider" />
+        <module name="happy-swagger2" />
         <module name="happy2-provider" />
       </profile>
     </annotationProcessing>
